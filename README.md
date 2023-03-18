@@ -30,3 +30,7 @@ pentru text italic si boldat : ___hello IT Factory___
     3.2 Indented item
     
 4. Fourth item
+
+
+
+Here are the link teste case details  [teste case details](https://github.com/Elihey2023/Proiect-Practic-Testare-Manuala/blob/main/hello.jpg)
