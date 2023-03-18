@@ -13,3 +13,20 @@ pentru text ilalic :  _text_ ; *text*
 
 pentru text italic si boldat : ___hello IT Factory___
 
+# Lists 
+
+1. Introduction 
+
+      1.1 project obiective
+     
+      1.2 Functionalities in scope 
+      
+2. Second item
+
+3. Third item
+
+    3.1. Indented item
+    
+    3.2 Indented item
+    
+4. Fourth item
