@@ -34,3 +34,10 @@ pentru text italic si boldat : ___hello IT Factory___
 
 
 Here are the link teste case details  [teste case details](https://github.com/Elihey2023/Proiect-Practic-Testare-Manuala/blob/main/hello.jpg)
+
+
+
+
+
+
+![Image name](https://github.com/Elihey2023/Proiect-Practic-Testare-Manuala/blob/main/imagine%20sc.jpg)
