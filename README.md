@@ -42,7 +42,7 @@ Here are the link teste case details  [teste case details](https://github.com/El
 
 ![Image name](https://github.com/Elihey2023/Proiect-Practic-Testare-Manuala/blob/main/imagine%20sc.jpg)
 
-
+d
 Test case  [Test cases for user story x](https://github.com/Elihey2023/Proiect-Practic-Testare-Manuala/blob/main/TES-6.pdf)
 
 
